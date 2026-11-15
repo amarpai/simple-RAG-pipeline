@@ -1,0 +1,5 @@
+pypdf
+numpy
+rank_bm25
+fastembed
+anthropic
